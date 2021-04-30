@@ -1,3 +1,9 @@
-export const nombre = "Angel";
+import dotenv from "dotenv";
+import Server from "./models/server";
 
-console.log(nombre);
+// Configurar variables de entorno DOTENV
+dotenv.config();
+
+const server = new Server();
+
+server.listen();
