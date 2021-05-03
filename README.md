@@ -8,5 +8,8 @@ Otra aplicación del [curso de Node](https://www.udemy.com/course/node-de-cero-a
 Esta aplicación hace consiste en desarrollar un backend simple que sirva a modo de esqueleto para futuras aplicaciones.
 
 
-Recuerden que se debe ejecutar ```npm install ``` para reconstruir los módulos de Node.
+Recuerden que se debe ejecutar:
+
+- ```npm install ``` para reconstruir los módulos de Node.
+
 
